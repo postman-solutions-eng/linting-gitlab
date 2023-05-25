@@ -1,1 +1,1 @@
-# fake-governance-rules-service
+# local-governance-rules
