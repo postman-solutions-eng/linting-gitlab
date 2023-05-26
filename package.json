@@ -1,5 +1,5 @@
 {
-  "name": "linting-gitlab",
+  "name": "@postman-field-services/linting-gitlab",
   "description": "Enables Postman CLI linting within on-premise GitLab CI/CD.",
   "homepage": "https://github.com/postman-solutions-eng/linting-gitlab",
   "repository": {
